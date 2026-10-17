@@ -1,0 +1,3 @@
+# Núcleo: no requiere dependencias (solo la stdlib de Python 3.8+).
+# Opcional, para notas de voz (transcripción local, gratis):
+# openai-whisper
