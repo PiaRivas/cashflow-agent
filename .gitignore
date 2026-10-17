@@ -1,0 +1,6 @@
+__pycache__/
+transacciones.json
+*.ogg
+*.mp3
+*.wav
+.env
